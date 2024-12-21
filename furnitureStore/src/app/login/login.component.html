@@ -1,0 +1,25 @@
+<mat-card>
+    <mat-card-header>
+        <h1 style="margin:0 auto;padding-bottom: 1em;">Sign In</h1> 
+    </mat-card-header>
+    <mat-card-content>  
+        <form class="example-form" (ngSubmit)="proceedLogin()" [formGroup]="loginform" > 
+            <mat-form-field class="example-full-width" appearance="outline">
+                <mat-label>Username</mat-label>    
+                <input matInput formControlName="id">    
+                <mat-error>Username must be at least 6 characters!</mat-error> 
+            </mat-form-field> 
+            <mat-form-field class="example-full-width" appearance="outline">
+                <mat-label>Password</mat-label>
+                <input type="password" matInput formControlName="password">
+                <mat-error>Password must be at least 6 characters!</mat-error> 
+            </mat-form-field>
+
+            <div style="display: flex;">
+                <button mat-raised-button style="background-color: black;color: white">Login</button> 
+                <button routerLink="/register" mat-raised-button style="background-color: black;color: white; ">Don't have an account?</button>
+            </div>
+
+        </form>
+    </mat-card-content>
+</mat-card>
