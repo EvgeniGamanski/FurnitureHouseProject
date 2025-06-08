@@ -17,20 +17,30 @@ The logged in user can:
 
 Here is what the project's interface looks like:
 
-Screenshots
+Screenshot:
 ![image](furnitureStoreScreenshots/pic1.png)
 Screenshot:
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/f4885626-800a-4e7f-8904-81aea60f0bbf)
+![image](furnitureStoreScreenshots/pic2.png)
 Screenshot:
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/c92b7dc2-5d30-401d-bd7b-a472633456cc)
+![image](furnitureStoreScreenshots/pic3.png)
 Screenshot:
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/4af33e3c-31fb-462d-973a-df94067acc51)
+![image](furnitureStoreScreenshots/pic4.png)
 Screenshot:
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/809d44de-fc15-4b3a-a05f-ac225ebaa62d)
+![image](furnitureStoreScreenshots/pic5.png)
 Screenshot:
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/395ce972-a30d-4d1b-b57b-fecf4c935b16)
+![image](furnitureStoreScreenshots/pic6.png)
 Screenshot:
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/f7a0724c-f1bc-4569-9b0c-a0a085e3c11c)
+![image](furnitureStoreScreenshots/pic7.png)
+Screenshot:
+![image](furnitureStoreScreenshots/pic8.png)
+Screenshot:
+![image](furnitureStoreScreenshots/pic9.png)
+Screenshot:
+![image](furnitureStoreScreenshots/pic10.png)
+Screenshot:
+![image](furnitureStoreScreenshots/pic11.png)
+Screenshot:
+![image](furnitureStoreScreenshots/pic12.png)
 
 
 
