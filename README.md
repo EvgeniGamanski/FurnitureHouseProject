@@ -15,9 +15,10 @@ The logged in user can:
  - Make an order
  - Make a product request, delete a product request, edit a product request
 
-Here are screenshots of the project:
+Here is what the project's interface looks like:
 
-![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/b5a0d24b-8b31-4cae-b53c-457da786e7a6)
+Screenshots
+![image](furnitureStoreScreenshots/pic1.png)
 Screenshot:
 ![image](https://github.com/EvgeniGamanski/FurnitureStoreWebshop/assets/114442045/f4885626-800a-4e7f-8904-81aea60f0bbf)
 Screenshot:
