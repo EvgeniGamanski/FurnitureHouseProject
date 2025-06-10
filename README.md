@@ -1,4 +1,4 @@
-# FurnitureHouseSofia
+# Furniture House Sofia
 Angular project defense.
 
 The project is based on a furniture web-shop and has the following functionalities:
