@@ -3,7 +3,7 @@ Angular project defense.
 
 The project is based on a furniture web-shop and has the following functionalities:
 
-If the user is not logged in, he can go to:
+If the user is not logged in, they can go to:
  - Home
  - Products and New Collection (without the "Add to Cart" functionality)
  - Products and New Collection Details
